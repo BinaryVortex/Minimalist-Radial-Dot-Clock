@@ -49,13 +49,6 @@ Building projects like this continues to teach me how small design
 decisions can create entirely different user experiences. Sometimes, the
 simplest interfaces can be the most engaging.
 
-🌐 **Live Demo:** *(Add your live demo link here)*
-
 I'm always excited to connect with fellow developers, designers, and
 tech enthusiasts. Feel free to connect and share your thoughts!
 
-## Hashtags
-
-#JavaScript #WebDevelopment #FrontendDevelopment #HTML #CSS #UIDesign
-#CreativeCoding #JavaScriptProjects #WebDesign #Coding #OpenSource
-#Frontend #Developer #Programming #100DaysOfCode
