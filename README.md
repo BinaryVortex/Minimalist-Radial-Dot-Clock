@@ -45,6 +45,8 @@ keeping the experience lightweight and responsive.
 -   🎭 CSS Transforms & Animations
 -   ⚡ requestAnimationFrame
 
+--
+
 Building projects like this continues to teach me how small design
 decisions can create entirely different user experiences. Sometimes, the
 simplest interfaces can be the most engaging.
