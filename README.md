@@ -1,3 +1,7 @@
+<div align="center">
+<img src="logo.png" alt="FUTURA Logo" width="1000"/>
+</div>
+
 # ⏰ Minimalist Radial Dot Clock
 
 Excited to share one of my latest front-end experiments --- a
